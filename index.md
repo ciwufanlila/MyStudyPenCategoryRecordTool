@@ -1,4 +1,4 @@
-## Welcome to My Study Pen Category Record Tool
+## Welcome to Study Pen Category Record Tool
 
 ![Image](icon-1024.png)
 
